@@ -1,11 +1,11 @@
 {
-    "name": "lord/laroute",
-    "description": "Access Laravels URL/Route helper functions, from JavaScript.",
+    "name": "besingamkb/laroute",
+    "description": "Access Laravels URL/Route helper functions, from JavaScript. Forked from lord/laroute",
     "keywords"  : ["laravel", "routes", "routing", "javascript"],
     "authors": [
         {
-            "name": "Aaron Lord",
-            "email": "hello@aaronlord.is"
+            "name": "Mark Kevin Besinga",
+            "email": "besingamkb@gmail.com"
         }
     ],
     "license" : "MIT",
